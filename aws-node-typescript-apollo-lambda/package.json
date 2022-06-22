@@ -9,7 +9,7 @@
     "lint": "tslint -p tsconfig.json -c tslint.json"
   },
   "dependencies": {
-    "apollo-server-lambda": "^2.16.1",
+    "apollo-server-lambda": "^3.0.0",
     "graphql": "^15.3.0",
     "source-map-support": "^0.5.10"
   },
