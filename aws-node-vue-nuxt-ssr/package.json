@@ -20,7 +20,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@nuxt/http": "^0.1.2",
+    "@nuxt/http": "^0.5.2",
     "axios": "^0.18.0",
     "nuxt": "^2.6.3",
     "nuxt-start": "^2.6.3",
